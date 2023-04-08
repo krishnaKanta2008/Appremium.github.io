@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("/8823497.jpg") no-repeat center;
+    background: url("https://wallpaperaccess.com/full/8823497.jpg") no-repeat center;
     height: 100vh;
     color:#fff(194, 35, 35);
     min-height: 500px;
